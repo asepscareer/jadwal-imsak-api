@@ -47,4 +47,4 @@ kumpulan data jadwal imsak seluruh daerah di negara Indonesia.
 </table>
 
 # Dokumentasi API
-lokal -> 127.0.0.1:8000/docs
+lokal -> http://127.0.0.1:8000/docs
