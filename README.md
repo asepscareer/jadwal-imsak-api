@@ -13,6 +13,10 @@ cd jadwal-imsak-api && pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+# Dokumentasi API
+lokal -> http://127.0.0.1:8000/docs
+server -> https://jadwal-imsak.herokuapp.com/docs
+
 # jadwal-imsak-api
 kumpulan data jadwal imsak seluruh daerah di negara Indonesia.
 
@@ -45,6 +49,3 @@ kumpulan data jadwal imsak seluruh daerah di negara Indonesia.
   </tr>
 </tbody>
 </table>
-
-# Dokumentasi API
-lokal -> http://127.0.0.1:8000/docs
