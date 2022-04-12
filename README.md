@@ -15,6 +15,7 @@ uvicorn main:app --reload
 
 # Dokumentasi API
 lokal -> http://127.0.0.1:8000/docs
+
 server -> https://jadwal-imsak.herokuapp.com/docs
 
 # jadwal-imsak-api
